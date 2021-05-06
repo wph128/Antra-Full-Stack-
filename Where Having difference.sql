@@ -1,0 +1,1 @@
+/* Where is used to filter rows before grouping and Having is used to exclude records after grouping. Where caluse cannot contain aggregate function like COUNT(), MAX(), but Having clause may contain aggregate functions.
